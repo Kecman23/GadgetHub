@@ -1,7 +1,7 @@
 // generisanje menija
 
-let meni = ["Pocetna", "Proizvodi", "Kontakt", "Autor"];
-let meniPutanje = ["#", "#proizvodi", "#kontakt", "autor.html"];
+let meni = ["Pocetna", "O nama", "Proizvodi", "Kontakt", "Autor", "Dokumentacija", "Preuzmi projekat"];
+let meniPutanje = ["#", "#o_nama", "#proizvodi", "#kontakt", "autor.html", "DOKUMENTACIJA.pdf", "GadgetHub.zip"];
 
 function meniGenerisanje() {
   let output = "<ul> <h2>Menu</h2>";
